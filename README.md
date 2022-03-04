@@ -1,15 +1,5 @@
 # ChunkList
 
-[comment]: <> (Do not remove this!)
-![Points badge](../../blob/badges/.github/badges/points.svg)
-
-> **Note:** It will take 2-5 minutes for the points to update after you push.
->
-> **Late Days:** I am using 0 late days
-
-Original ChunkList concept by Nick Parlante.  Adapted to an assignment by Varick
-Erickson. Copyright (c) 2021 Varick Erickson.
-
 ## Deliverables
 
 | Deliverable        | Points |
